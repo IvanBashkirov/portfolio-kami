@@ -25,6 +25,12 @@ Three pages were implemented: the landing page, the collection page and the albu
 
 BlocJams is a beautiful responsive website. It responds to changes in browser window size and looks good both on a phone and a desktop computer. 
 
+
+
+![]({{ site.baseurl }}/img/blocJamsCap1.png)
+![]({{ site.baseurl }}/img/blocJamsCap2.png)
+{:.center}
+<br><br>
 ## Conclusion
 
 Making the website allowed me to put some of my web development knowledge into practice and also learn a lot of new things. During the course of development I practiced styling the page with CSS, dynamically altering the contents of pages using JavaScript and learned a couple of libraries. I am now building on that experience in the hopes of creating more complex webpages and applications.
