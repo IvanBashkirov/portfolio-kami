@@ -11,7 +11,7 @@ short-description: A digital music player with someone's neck on the landing pag
 
 ## Explanation
 
-BlocJams is a digital music player similar to Spotify. The website was build to practice and gain understanding of some of the web development concepts. 
+BlocJams is a digital music player similar to Spotify. The website was built to practice and gain understanding of web development concepts. 
 
 ## Problem
 
@@ -27,4 +27,4 @@ BlocJams is a beautiful responsive website. It responds to changes in browser wi
 
 ## Conclusion
 
-Making the website allowed me to put some of my web development knowledge to practice and also learn a lot of new things. During the course of development I practiced styling the page with CSS, dynamically altering the contents of pages using JavaScript and learned a couple of libraries. I am now building on that experience in hope to create more complex webpages and applications.
+Making the website allowed me to put some of my web development knowledge into practice and also learn a lot of new things. During the course of development I practiced styling the page with CSS, dynamically altering the contents of pages using JavaScript and learned a couple of libraries. I am now building on that experience in the hopes of creating more complex webpages and applications.
