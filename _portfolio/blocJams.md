@@ -26,10 +26,12 @@ Three pages were implemented: the landing page, the collection page and the albu
 BlocJams is a beautiful responsive website. It responds to changes in browser window size and looks good both on a phone and a desktop computer. 
 
 
+![phonePic]({{ site.baseurl }}/img/blocJamsCap2.png)
+![fullPic]({{ site.baseurl }}/img/blocJamsCap1.png)
+![fullPic2]({{ site.baseurl }}/img/blocJams.png)
+![fullPic2]({{ site.baseurl }}/img/blocJamsCap3.png)
 
-![]({{ site.baseurl }}/img/blocJamsCap1.png)
-![]({{ site.baseurl }}/img/blocJamsCap2.png)
-{:.center}
+
 <br><br>
 ## Conclusion
 

@@ -16,3 +16,18 @@
 // Partials
 @import 'includes/header';
 @import 'includes/footer';
+
+img[alt=fullPic] { 
+  width: 530px;
+}
+
+img[alt=fullPic2] { 
+  width: 530px;
+  margin-top: 0.5px;
+}
+
+img[alt=phonePic] { 
+  height: 1100px;
+  float: left;
+  margin-right: 10px;
+}
